@@ -1,1 +1,1 @@
-qwerqwerqwer
+printf('every thing in gonna go ok')
