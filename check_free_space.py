@@ -21,3 +21,4 @@ if not check_disk_usage("/", 2*2**30, 10):
 
 print("Everything ok.")
 sys.exit(0)
+# end of script
